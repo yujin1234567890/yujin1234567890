@@ -20,6 +20,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yujin1234567890&show_icons=true&locale=en&layout=compact" alt="yujin1234567890" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yujin1234567890&show_icons=true&locale=en" alt="yujin1234567890" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yujin1234567890&" alt="yujin1234567890" /></p>
